@@ -14,6 +14,7 @@ https://discord.gg/yputCttUQN
  - Build_Bot#9090
  - Kirima#2409
  - Animan8000#0820
+ - actually akac#1686
 ### Github
  - https://github.com/DevSpen
  - https://github.com/ShadoHax
@@ -26,6 +27,7 @@ https://discord.gg/yputCttUQN
  - https://github.com/Pixal-Aqua
  - https://github.com/Vondyy
  - https://github.com/Coder-Tavi
+ - https://github.com/actually-akac
 ## File Directory
 
 ```
@@ -36,7 +38,3 @@ scam-links/
     ├── youtube.txt
     └── youtube.json
 ```
-
-## Contributing
-
-Make a pull request with `urls.json` and `list.txt` modified with scam links. Please do not add the protocol (https:// or http://) and don't add any slashes. If adding rickrolls in `youtube.txt` & `youtube.json` please put only the YouTube ID.
